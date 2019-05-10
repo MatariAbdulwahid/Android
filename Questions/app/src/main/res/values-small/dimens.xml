@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<item name="anotherLayout" type="layout">@layout/activity_front</item>
+    <item name="page_second" type="layout">@layout/activity_second</item>
+    <dimen name="btn_que_width">110dp</dimen>
+    <dimen name="btn_que_height">30dp</dimen>
+
+    <dimen name="btn_rate_width">110dp</dimen>
+    <dimen name="btn_rate_heigth">30dp</dimen>
+
+    <dimen name="btn_rate">20sp</dimen>
+    <dimen name="btn_que">20sp</dimen>
+
+
+    <dimen name="tv_xxyy_txtSize">20sp</dimen>
+
+    <dimen name="btn_voice_width">35dp</dimen>
+    <dimen name="btn_voice_height">35dp</dimen>
+    <dimen name="voice_marginTop">15dp</dimen>
+
+    <dimen name="tv_qustion">20sp</dimen>
+    <dimen name="tv_qustion_marginTop">15sp</dimen>
+
+    <dimen name="Press_tv"></dimen>
+    <dimen name="tv_press_txtSize">20sp</dimen>
+    <dimen name="btn_width_Answer">40dp</dimen>
+    <dimen name="btn_heigth_answer">40dp</dimen>
+    <dimen name="btn_back_width">40dp</dimen>
+    <dimen name="btn_back_height">40dp</dimen>
+    <dimen name="btn_go_width">40dp</dimen>
+    <dimen name="btn_go_height">40dp</dimen>
+</resources>

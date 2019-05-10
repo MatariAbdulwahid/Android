@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- https://bitcoinexchangeguide.com/top-10-bitcoin-questions-answers/ -->
+    <string-array name="questions">
+        <item>What Are Bitcoins?</item>   <!-- // index 0 -->
+        <item>Who Invented Bitcoins?</item>
+        <item> What Makes Bitcoin Special?</item>
+        <item>What Is a Decentralization of Currency?</item>
+        <item> How Do You Use Bitcoins?</item>
+        <item>How Many People Use Bitcoins?</item>
+        <item>How Do I Get Bitcoins?</item>
+        <item> How Will I Spend, Receive or Send Bitcoins?</item>
+        <item>What Are the Benefits of Bitcoins?</item>
+        <item> What Are the Disadvantages of Bitcoins?</item>
+        <item>What exchange is working the best today to buy altcoins?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="btn_que">Questions</string>
+    <string name="btn_rate">Rate App</string>
+    <string name="n1">abdul</string>
+    <string name="n2">abdul2</string>
+    <string name="n3">abdul3</string>
+
+    <string-array name="names">
+        <item>salah</item>
+        <item>tomas</item>
+        <item>salim</item>
+    </string-array>
+</resources>
